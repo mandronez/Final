@@ -1,5 +1,5 @@
-These codes were apart of my finals to show my skill with using shell, pointers, and structures.
-In the main code, a basic implementation of a shell program in C was being shown. Here's a breakdown of how it works:
+These codes were a part of my finals to show my skill with using shell, pointers, and structures.
+In the main code, the C program is a basic implementation of a shell program. Here's a breakdown of how it works:
 
 Builtin Commands Handling: The shell supports a few built-in commands such as cd, help, and exit. These commands are defined in functions like lsh_cd, lsh_help, and lsh_exit.
 
